@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://real-experimenter.web.app/sitemap.xml
+Host: https://real-experimenter.web.app
